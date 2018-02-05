@@ -1,0 +1,16 @@
+{
+    "name": "simpsons-api",
+    "version": "1.0.0",
+    "description": "json-server database React Workshop",
+    "main": "index.js",
+    "scripts": {
+        "start": "node server.js",
+        "dev": "nodemon server.js"
+    },
+    "keywords": [],
+    "author": "Daniel Larrotta",
+    "license": "ISC",
+    "dependencies": {
+        "json-server": "^0.12.1"
+    }
+}
