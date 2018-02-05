@@ -2,8 +2,98 @@
     "characters": [
         {
             "id": 0,
-            "name": "Lisa Simpson",
-            "image": "https://cdn.glitch.com/3c3ffadc-3406-4440-bb95-d40ec8fcde72%2FLisaSimpson.png?1497567512083"
+            "name": "Lisa",
+            "image": "https://cdn.glitch.com/3c3ffadc-3406-4440-bb95-d40ec8fcde72%2FLisaSimpson.png"
+        },
+        {
+            "id": 1,
+            "name": "Willie",
+            "image": "https://cdn.glitch.com/3c3ffadc-3406-4440-bb95-d40ec8fcde72%2FGroundskeeperWillie.png"
+        },
+        {
+            "id": 2,
+            "name": "Moe",
+            "image": "https://cdn.glitch.com/3c3ffadc-3406-4440-bb95-d40ec8fcde72%2FMoeSzyslak.png"
+        },
+        {
+            "id": 3,
+            "name": "Rainier",
+            "image": "https://cdn.glitch.com/3c3ffadc-3406-4440-bb95-d40ec8fcde72%2FRainierWolfcastle.png"
+        },
+        {
+            "id": 4,
+            "name": "Troy",
+            "image": "https://cdn.glitch.com/3c3ffadc-3406-4440-bb95-d40ec8fcde72%2FTroyMcClure.png"
+        },
+        {
+            "id": 5,
+            "name": "Quimby",
+            "image": "https://cdn.glitch.com/3c3ffadc-3406-4440-bb95-d40ec8fcde72%2FMayorQuimby.png"
+        },
+        {
+            "id": 6,
+            "name": "Nick",
+            "image": "https://cdn.glitch.com/3c3ffadc-3406-4440-bb95-d40ec8fcde72%2FNickRiviera.png"
+        },
+        {
+            "id": 7,
+            "name": "Seymour",
+            "image": "https://cdn.glitch.com/3c3ffadc-3406-4440-bb95-d40ec8fcde72%2FSeymourSkinner.png"
+        },
+        {
+            "id": 8,
+            "name": "Bart",
+            "image": "https://cdn.glitch.com/3c3ffadc-3406-4440-bb95-d40ec8fcde72%2FBartSimpson.png"
+        },
+        {
+            "id": 9,
+            "name": "Wiggum",
+            "image": "https://cdn.glitch.com/3c3ffadc-3406-4440-bb95-d40ec8fcde72%2FChiefWiggum.png"
+        },
+        {
+            "id": 10,
+            "name": "Duffman",
+            "image": "https://cdn.glitch.com/3c3ffadc-3406-4440-bb95-d40ec8fcde72%2FDuffman.png"
+        },
+        {
+            "id": 11,
+            "name": "Waylon",
+            "image": "https://cdn.glitch.com/3c3ffadc-3406-4440-bb95-d40ec8fcde72%2FWaylonSmithers.png"
+        },
+        {
+            "id": 12,
+            "name": "Abraham",
+            "image": "https://cdn.glitch.com/3c3ffadc-3406-4440-bb95-d40ec8fcde72%2FAbrahamSimpson.png"
+        },
+        {
+            "id": 13,
+            "name": "Ralph",
+            "image": "https://cdn.glitch.com/3c3ffadc-3406-4440-bb95-d40ec8fcde72%2FRalphWiggum.png"
+        },
+        {
+            "id": 14,
+            "name": "Homer",
+            "image": "https://cdn.glitch.com/3c3ffadc-3406-4440-bb95-d40ec8fcde72%2FHomerSimpson.png"
+        },
+        {
+            "id": 15,
+            "name": "Otto",
+            "image": "https://cdn.glitch.com/3c3ffadc-3406-4440-bb95-d40ec8fcde72%2FOttoMann.png"
+        },
+        {
+            "id": 16,
+            "name": "Milhouse",
+            "image": "https://cdn.glitch.com/3c3ffadc-3406-4440-bb95-d40ec8fcde72%2FMilhouseVanHouten.png"
+        },
+        {
+            "id": 17,
+            "name": "Marge",
+            "image": "https://cdn.glitch.com/3c3ffadc-3406-4440-bb95-d40ec8fcde72%2FMargeSimpson.png"
+        },
+        {
+            "id": 18,
+            "name": "Bookguy",
+            "image": "https://cdn.glitch.com/3c3ffadc-3406-4440-bb95-d40ec8fcde72%2FComicBookGuy.png"
         }
     ]
 }
