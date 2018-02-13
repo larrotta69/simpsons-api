@@ -21,72 +21,72 @@
             "image": "ralph.png"
         },
         {
-            "id": 5,
+            "id": 4,
             "name": "Quimby",
             "image": "quimby.png"
         },
         {
-            "id": 6,
+            "id": 5,
             "name": "Nick",
             "image": "nick.png"
         },
         {
-            "id": 7,
+            "id": 6,
             "name": "Seymour",
             "image": "seymour.png"
         },
         {
-            "id": 8,
+            "id": 7,
             "name": "Bart",
             "image": "bart.png"
         },
         {
-            "id": 9,
+            "id": 8,
             "name": "Milhouse",
             "image": "milhouse.png"
         },
         {
-            "id": 10,
+            "id": 9,
             "name": "Duffman",
             "image": "duffman.png"
         },
         {
-            "id": 11,
+            "id": 10,
             "name": "Waylon",
             "image": "waylon.png"
         },
         {
-            "id": 12,
+            "id": 11,
             "name": "Abraham",
             "image": "abraham.png"
         },
         {
-            "id": 13,
+            "id": 12,
             "name": "Rainier",
             "image": "rainier.png"
         },
         {
-            "id": 14,
+            "id": 13,
             "name": "Homer",
             "image": "homer.png"
         },
         {
-            "id": 15,
+            "id": 14,
             "name": "Otto",
             "image": "otto.png"
         },
         {
-            "id": 16,
+            "id": 15,
             "name": "Wiggum",
             "image": "wiggum.png"
         },
         {
-            "id": 17,
+            "id": 16,
             "name": "Marge",
             "image": "marge.png"
         },
         {
-            "id": 18,
+            "id": 17,
             "name": "Bookguy",
             "image": "bookguy.png"
         }
