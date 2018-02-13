@@ -17,13 +17,8 @@
         },
         {
             "id": 3,
-            "name": "Rainier",
-            "image": "rainier.png"
-        },
-        {
-            "id": 4,
-            "name": "Troy",
-            "image": "troy.png"
+            "name": "Ralph",
+            "image": "ralph.png"
         },
         {
             "id": 5,
@@ -47,8 +42,8 @@
         },
         {
             "id": 9,
-            "name": "Wiggum",
-            "image": "wiggum.png"
+            "name": "Milhouse",
+            "image": "milhouse.png"
         },
         {
             "id": 10,
@@ -67,8 +62,8 @@
         },
         {
             "id": 13,
-            "name": "Ralph",
-            "image": "ralph.png"
+            "name": "Rainier",
+            "image": "rainier.png"
         },
         {
             "id": 14,
@@ -82,8 +77,8 @@
         },
         {
             "id": 16,
-            "name": "Milhouse",
-            "image": "milhouse.png"
+            "name": "Wiggum",
+            "image": "wiggum.png"
         },
         {
             "id": 17,
